@@ -1,1 +1,3 @@
-hi/bin/bash: q: command not found
+i/bin/bash: q: command not found
+
+first edit
